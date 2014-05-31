@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">bettercare-test-book-61efba2a-04a2-4fb3-ab4a-81168789012e</dc:identifier>
+    <dc:title>Bettercare test book</dc:title>
+      <date opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2014-5-31</date>
+</metadata>
+  <manifest><item href="bettercare-test-book-2f4c56b6-36fb-43b1-a671-d820bc806fb2-nav.html" id="bettercare-test-book-2f4c56b6-36fb-43b1-a671-d820bc806fb2-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-15581219-fb52-487b-adb4-6ffe99b3fdc1.html" id="module1-15581219-fb52-487b-adb4-6ffe99b3fdc1.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-15581219-fb52-487b-adb4-6ffe99b3fdc1.html"></itemref></spine>
+</package>
